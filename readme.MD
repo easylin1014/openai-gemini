@@ -1,5 +1,7 @@
 ## Why
 
+
+
 The Gemini API is [free](https://ai.google.dev/pricing "limits applied!"),
 but there are many tools that work exclusively with the OpenAI API.
 
